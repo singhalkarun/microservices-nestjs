@@ -1,0 +1,6 @@
+[submodule "microservice-otp"]
+	path = microservice-otp
+	url = https://github.com/singhalkarun/microservice-otp
+[submodule "microservice-email"]
+	path = microservice-email
+	url = https://github.com/singhalkarun/microservice-email
